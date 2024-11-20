@@ -7,5 +7,6 @@ body{
   font-weight:normal;
   /* same as above */
   font: normal 16px arial,helvetica,sans-serit;
-  
+
+  line-height:1.6em;
 }
