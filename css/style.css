@@ -9,4 +9,9 @@ body{
   font: normal 16px arial,helvetica,sans-serit;
 
   line-height:1.6em;
+  margin:0;
+}
+
+.box-1{
+  background-color:#333;
 }
