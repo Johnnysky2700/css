@@ -67,3 +67,7 @@ body{
   padding:20px;
   margin:20px 0;
 }
+
+.categories{
+  border:1px #ccc solid;
+}
