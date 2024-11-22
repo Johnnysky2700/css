@@ -33,7 +33,7 @@ a:active{
 }
 
 a:visited{
-  color:yellow;
+  color:black;
 }
 
 .container{
@@ -99,4 +99,10 @@ a:visited{
   padding:0;
   list-style:square;
   list-style:none;
+}
+
+.categories li{
+  padding-bottom:6px;
+  border-bottom:dotted 1px #333;
+  list-style-image:url['../imgages/check.png'];
 }
