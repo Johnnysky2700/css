@@ -32,6 +32,10 @@ a:active{
   color:green;
 }
 
+a:visited{
+  color:yellow;
+}
+
 .container{
   width:80%;
   margin:auto;
