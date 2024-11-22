@@ -106,3 +106,7 @@ a:visited{
   border-bottom:dotted 1px #333;
   list-style-image:url['../imgages/check.png'];
 }
+
+.my-form{
+  padding-bottom:20px;
+}
