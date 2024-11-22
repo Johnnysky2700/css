@@ -108,5 +108,9 @@ a:visited{
 }
 
 .my-form{
-  padding-bottom:20px;
+  padding:20px;
+}
+
+.my-form .form-group{
+
 }
