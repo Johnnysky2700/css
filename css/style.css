@@ -172,13 +172,13 @@ a:visited{
   position:relative;
 }
 
-.p-box{
+.p-box h1{
   position:absolute;
   top:100px;
   left:200px;
 }
 
-.p-box{
+.p-box h2{
   position:absolute;
   bottom:40px;
   right:100px;
