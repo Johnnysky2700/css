@@ -89,3 +89,7 @@ button{
     right: -1px;
     top: -1px;
 }
+span{
+    font-size: 13px;
+    margin-left: 10px;
+}
