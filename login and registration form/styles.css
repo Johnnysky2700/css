@@ -96,3 +96,11 @@ span{
 .card .btn{
     margin-top: 70px;
 }
+.card a{
+    color: #fff;
+    text-decoration: none;
+    display: black;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 8px;
+}
